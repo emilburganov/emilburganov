@@ -60,10 +60,3 @@ I'm a PHP/Laravel Backend Developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="vscode" alt="vscode" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Light.svg" title="vim" alt="vim" width="40" height="40"/> &nbsp
 </div>
-
----
-
-### GitHub Stats:
-<div>
-  <img height="200px" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilburganov&layout=compact&theme=vision-friendly-dark" />
-</div>
