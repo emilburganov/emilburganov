@@ -26,6 +26,6 @@ I'm a Backend Developer
 ### OS:
 
 <div>
-  <img src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/windows.svg" title="windows" alt="windows" width="40" height="40"/> &nbsp
   <img src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/linux.svg" title="linux" alt="linux" width="40" height="40"/> &nbsp
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/windows.svg" title="windows" alt="windows" width="40" height="40"/> &nbsp
 </div>
