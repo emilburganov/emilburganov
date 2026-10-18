@@ -8,7 +8,7 @@
 Golang PostgreSQL Redis Docker Kubernetes Linux
 
 ## 🚀 Обо мне
-Я занимаюсь разработкой проектов, написанных на Golang или Laravel.
+Я занимаюсь разработкой проектов, написанных на Golang или PHP/Laravel.
 
 ## 📦 Проекты
 - [No_project](https://github.com/) - NDA
