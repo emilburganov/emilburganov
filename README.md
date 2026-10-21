@@ -2,16 +2,17 @@
 
 Добро пожаловать в мой профиль на GitHub!
 
-Я — Golang Backend Developer. Люблю решать сложные задачи и изучать новые технологии.
+Я — Backend Developer. Люблю решать сложные задачи и изучать новые технологии.
 
 ## 🛠 Технологический стек
-Golang PostgreSQL Redis Docker Kubernetes Linux
+Golang PostgreSQL Redis Docker Linux
 
 ## 🚀 Обо мне
-Я занимаюсь разработкой проектов, написанных на Golang или PHP/Laravel.
+Я занимаюсь разработкой проектов на Golang или PHP/Laravel.
 
 ## 📦 Проекты
-- [No_project](https://github.com/) - NDA
+- [LinkShortener](https://github.com/emilburganov/link-shortener) - cервис для сокращения ссылок на golang;
+- [LinkShortenerWeb](https://github.com/emilburganov/link-shortener-web) - веб-интерфейс сервиса для сокращения ссылок на react + typescript;
 
 ## 📊 Статистика GitHub
 ![emilburganov github streak](https://github-readme-streak-stats.herokuapp.com/?user=emilburganov&theme=radical&include_all_commits=true&count_private=true)
