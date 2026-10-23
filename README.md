@@ -5,7 +5,7 @@
 Я — Backend Developer. Люблю решать сложные задачи и изучать новые технологии.
 
 ## 🛠 Технологический стек
-Golang PostgreSQL Redis Docker Linux
+Golang PHP Laravel PostgreSQL Redis Docker Kubernetes Linux Bash Git
 
 ## 🚀 Обо мне
 Я занимаюсь разработкой проектов на Golang или PHP/Laravel.
